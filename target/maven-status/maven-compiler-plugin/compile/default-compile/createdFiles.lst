@@ -1,0 +1,5 @@
+dao\PessoaDAO.class
+entidade\Endereco.class
+entidade\Pessoa.class
+controle\PessoaBean.class
+dao\PessoaDAOImp.class
